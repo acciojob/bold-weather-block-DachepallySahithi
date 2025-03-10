@@ -15,8 +15,11 @@ body {
 }
 
 .selected-location {
-    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
 }
+
 
 .location-text {
     font-size: 25px;
